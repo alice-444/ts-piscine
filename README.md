@@ -1,7 +1,7 @@
 # Piscine TypeScript
 
-Cette piscine vous permettra d'assmilier les notions tout en les pratiquants. L'utilisation de l'IA est fortement déconseiller pour la réalisation de ses exercices. Il est essentiel d'assimiler les notions de TypeSript, ce sont des notions de base à maitriser.
+Cette piscine vous permettra d'assimilier les notions tout en les pratiquant. L'utilisation de l'IA est fortement déconseillée pour la réalisation de ses exercices. Il est essentiel d'assimiler les notions de TypeScript, ce sont des notions de base à maîtriser.
 
 # Contraintes
 
-Vous devez crée un repo git, chaque saison aura sa propre branche, vous devrez donc crée au total 6 branche sur votre repo.
+Vous devez créer un repo git, chaque saison aura sa propre branche, vous devrez donc créer au total 6 branches sur votre repo.
